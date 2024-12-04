@@ -1,10 +1,10 @@
 # Power-Bi-Project
 
-##Credit Card Financial Dashboard
+#Credit Card Financial Dashboard
 Overview
 The Credit Card Financial Dashboard is a comprehensive data visualization project developed using Power BI. It provides insights into customer demographics, transaction patterns, revenue trends, and expenditure types, helping stakeholders understand key financial metrics and customer behavior.
 
-##Key Features
+#Key Features
 1. Customer Demographics
 Gender Breakdown: Visualization of revenue by male and female customers.
 Age Distribution: Insights into revenue and transaction amounts by age groups (20-30, 30-40, etc.).
@@ -32,7 +32,7 @@ Customer demographic data (e.g., age, education, marital status, salary group).
 Transaction data (e.g., count, amount, type, and card categories).
 Financial metrics (e.g., revenue, interest earned, annual fees).
 
-##Tools Used
+#Tools Used
 Power BI Desktop: For building interactive and visually appealing dashboards.
 Data Transformation: Data modeling, DAX functions, and visualizations.
 
@@ -42,12 +42,12 @@ Spending Habits: Grocery and Fuel are the top spending categories, with a notabl
 Card Usage Trends: Blue cards generate the highest revenue, followed by Silver and Gold.
 Geographical Insights: High customer base in states like Texas, New York, and California.
 
-##How to Use
+#How to Use
 Open Power BI File: Import the dataset into Power BI Desktop.
 Explore Dashboards: Navigate through the dashboards to explore customer demographics, revenue trends, and transaction details.
 Customize Filters: Use slicers to filter data by quarter, customer segments, or card categories.
 
-##Future Enhancements
+#Future Enhancements
 Include predictive analytics for customer spending trends.
 Develop more detailed segmentation for personalized marketing strategies.
 Add geospatial visualizations for deeper geographical insights.
